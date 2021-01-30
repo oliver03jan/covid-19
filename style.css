@@ -102,3 +102,6 @@ img#flag {
     column-count: 1;
   }
 }
+footer { 
+  display: block;
+}
